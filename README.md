@@ -3,7 +3,7 @@
 This is pretty much me:
 
 - 🚀 Tech Enthusiast
-- 📚 Eternal Learner
+- 📚 Eternal Student
 - 🖌 Creative Spirit
 - ✨ Aspiring Minimalist
 
