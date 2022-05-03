@@ -1,7 +1,5 @@
 ### S'geht'n! 👋
 
-This is pretty much me:
-
 - 🚀 Tech Enthusiast
 - 📚 Eternal Learner
 - 🖌 Creative Spirit
