@@ -11,5 +11,4 @@ I'm currently interested in...
 - Cloud Engineering
 - Robotics
 - (UX) Design
-- React
 - Golang
